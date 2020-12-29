@@ -2,6 +2,9 @@
      <a href="https://dogss-app.herokuapp.com" alt="app-dogs"> Dogs App </a>
 </h1>
 
+Dogs App é uma rede social para cachorros, desenvolvido durante o curso de [React](https://www.origamid.com/curso/react-completo/)
+da [Origamid](https://www.origamid.com/). É possível postar fotos, comentar e interagir com outros usuários.
+
 ---
 
 ## Demonstração da aplicação
