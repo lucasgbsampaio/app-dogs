@@ -29,7 +29,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 $ git clone https://github.com/lucasfe4nor/app-dogs.git
 
 # Acesse a pasta do projeto no terminal/cmd para ter acesso a raiz da pasta
-$ cd client
+$ cd app-dogs
 
 # Instale as dependências
 $ yarn
@@ -45,7 +45,6 @@ $ yarn start
 ## Tecnologias
 
 - **[React](https://reactjs.org/)**
-- **[NodeJS](https://nodejs.org/en/)**
 - **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 
 ---
