@@ -26,7 +26,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```
 # Clone este repositório
-$ git clone https://github.com/lucasfe4nor/app-dogs.git
+$ git clone https://github.com/lucasgbsampaio/app-dogs.git
 
 # Acesse a pasta do projeto no terminal/cmd para ter acesso a raiz da pasta
 $ cd app-dogs
@@ -57,4 +57,4 @@ Concluído ✔️✔️✔️
 
 ## 👨‍💻 Autor
 
-- **Lucas Sampaio (lucasfe4nor)** - [Twitter](https://twitter.com/lucasfe4nor) - [LinkedIn](https://www.linkedin.com/in/lucasgbsampaio/)
+- **Lucas Sampaio (lucasgbsampaio)** - [Twitter](https://twitter.com/lucasgbsampaio) - [LinkedIn](https://www.linkedin.com/in/lucasgbsampaio/)
